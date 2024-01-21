@@ -21,11 +21,6 @@ Specifications:
 🟢Search Results
 
 
-
-
-<img src="./public/yt-Clone.gif"/>
-
-
 # Libraries
 - react-router-dom
 - react-icons
@@ -34,9 +29,6 @@ Specifications:
 - moment
 - react-player
 - tailwind (kurulumu sitesinde)
-
-
-
 
 
 # Notes
@@ -52,3 +44,4 @@ Specifications:
 
 * bu parametrelerde `useSearchParams` kullanılır 
 # yt-Clone
+<img src="./public/yt-Clone.gif"/>
