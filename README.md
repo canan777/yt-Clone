@@ -13,7 +13,7 @@ The project shows popular and current videos on its home page. Videos for each c
 
 🎫Axios library is used to make HTTP requests, millify numbers are integrated to make it more readable, and Tailwind CSS makes it fast and customizable.
 
-Specifications:
+# Specifications:
 🔵Home Page
 🟡Trending Videos
 ⚪Category Featured Videos 
