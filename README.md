@@ -31,7 +31,7 @@ The project shows popular and current videos on its home page. Videos for each c
 - tailwind (kurulumu sitesinde)
 
 
-# Notes
+## Notes
 1. Yol Parametresi (Path Params)
 
 - ürünler/56
